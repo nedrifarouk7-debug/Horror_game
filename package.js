@@ -1,0 +1,11 @@
+{
+  "name": "horror-game-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
